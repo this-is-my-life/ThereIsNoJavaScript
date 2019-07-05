@@ -1,0 +1,8 @@
+{
+  "name": "thereisnojavascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PMHStudio/ThereIsNoJavaScript.git",
+  "author": "PMHStudio <pmhstudio.pmh@gmail.com>",
+  "license": "MIT"
+}
